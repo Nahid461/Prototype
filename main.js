@@ -3,13 +3,13 @@ function main(){
 
     this.onSubmit=function(){
 
-        let protoTypeObj=new prototypeDemo();
+        let protoTypeObj=new protoTypeDemo();
         protoTypeObj.fullName="Nahid Fatima";
         console.log(protoTypeObj.fullName);
 
         protoTypeObj.demo();
 
-        prototypeObj.demo2();
+        protoTypeObj.demo2();
         console.log(protoTypeObj.fullName);
 
     }

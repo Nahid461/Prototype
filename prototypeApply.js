@@ -2,10 +2,10 @@
 
 
 //Function
-protoTypeDemo.protoType.demo2=function(){
+protoTypeDemo.prototype.demo2 = function(){
     console.log("demo 2");
 }
 
 //Property
 
- prototypeDemo.protoType.fullName ="Nahid";
+ protoTypeDemo.prototype.fullName ="Nahid";
